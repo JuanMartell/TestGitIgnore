@@ -5,6 +5,9 @@
       location = "group:Front/Front.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:FW2/FW2.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:FW1/FW1.xcodeproj">
    </FileRef>
 </Workspace>
