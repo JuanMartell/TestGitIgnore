@@ -1,14 +1,14 @@
 //
-//  MyFW1Tests.swift
-//  MyFW1Tests
+//  FrontTests.swift
+//  FrontTests
 //
 //  Created by Juan Martell on 16/05/21.
 //
 
 import XCTest
-@testable import MyFW1
+@testable import Front
 
-class MyFW1Tests: XCTestCase {
+class FrontTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
